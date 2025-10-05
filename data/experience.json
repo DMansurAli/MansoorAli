@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "role": "Product Designer",
+    "startDate": "August 2019",
+    "endDate": "Present",
+    "descriptions": "Worked on UX/UI for core Google Workspace tools and optimized design workflows."
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "role": "Frontend Developer",
+    "startDate": "August 2016",
+    "endDate": "July 2019",
+    "descriptions": "Developed scalable frontend components for Microsoft Azure portal and internal dashboards."
+  },
+  {
+    "id": 3,
+    "company": "Dropbox",
+    "role": "UI Engineer",
+    "startDate": "June 2014",
+    "endDate": "July 2016",
+    "descriptions": "Designed and implemented Dropbox’s file preview interface using React and CSS modules."
+  }
+]
